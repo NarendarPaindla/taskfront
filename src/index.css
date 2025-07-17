@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f4f4;
+}
+
+a {
+  text-decoration: none;
+  color: #1e88e5;
+}
+
+button {
+  cursor: pointer;
+}

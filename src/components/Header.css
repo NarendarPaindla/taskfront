@@ -1,0 +1,26 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #1e88e5;
+  color: white;
+  padding: 1rem 2rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+}
+
+.menu a,
+.menu button {
+  margin-left: 1rem;
+  color: white;
+  background: transparent;
+  border: none;
+  font-size: 1rem;
+}
+
+.menu button:hover,
+.menu a:hover {
+  text-decoration: underline;
+}
